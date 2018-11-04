@@ -1,0 +1,23 @@
+.link {
+  text-decoration: none;
+  color: black;
+}
+
+.link:hover {
+  text-decoration: none;
+}
+
+.post-list {
+  border: 1px solid gainsboro;
+  padding: 0.5rem;
+  box-shadow: 0 -1px 4px #ede7e7;
+  margin: 1rem;
+}
+
+img {
+  height: 90% !important;
+}
+
+.post-list:hover {
+  background-color: whitesmoke;
+}
